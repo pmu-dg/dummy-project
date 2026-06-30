@@ -1,1 +1,2 @@
 ud.galaxus.whatever
+uc.digitec.ch
