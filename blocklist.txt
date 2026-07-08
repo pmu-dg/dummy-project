@@ -3,3 +3,4 @@ uc.digitec.ch
 uu.galaxus.de
 uu.galaxus.ch
 uv.digitec.ch
+overlylongstring.galaxus.de
